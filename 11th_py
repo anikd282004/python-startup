@@ -1,0 +1,6 @@
+num_list =[19,20,21,22]
+alpha_list =['a','b','c','d']
+for number in num_list :
+    print(number)
+    for letter in alpha_list :
+        print(letter)
